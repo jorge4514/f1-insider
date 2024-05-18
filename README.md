@@ -1,5 +1,7 @@
 # F1 INSIDER
 
+![image](https://github.com/jorge4514/f1-insider/assets/82999172/886d9344-658e-424a-8a77-d4d62b99ea1d)
+
 ## Descripción
 Este proyecto tiene como objetivo proporcionar una plataforma web integral para estudiar los datos generados por los autos de Fórmula 1. Aprovechando Vue3 para el frontend y Spring Boot para el backend, ofrece actualizaciones en tiempo real de la información del piloto, los tiempos de vuelta y un análisis exhaustivo de las sesiones de carrera. Ya sea para analizar datos históricos o seguir sesiones en vivo, esta plataforma brinda un entorno rico para entusiastas y analistas de F1 por igual.
 
