@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;f1-insider-api/src/main/java/com/example&apos; to &apos;f1-insider&apos;" description="Rename resource &apos;example&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example" name="f1-insider" stamp="1711535699521" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;f1-insider-api/src/main/java/com/f1-insider/demo&apos; to &apos;controller&apos;" description="Rename resource &apos;demo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/f1-insider/demo" name="controller" stamp="1711535709336" updateReferences="true"/>
+</session>
